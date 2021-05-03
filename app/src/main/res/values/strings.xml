@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="num_of_pax">Num of Pax</string>
+    <string name="HintPax">Enter number of pax</string>
+    <string name="HintAmount">Enter Amount</string>
+    <string name="no_svs">No SVS</string>
+    <string name="svs">SVS</string>
+    <string name="no_gst">No GST</string>
+    <string name="gst">GST</string>
+    <string name="togglebutton_gst">ToggleButton</string>
+    <string name="togglebutton_svs">ToggleButtonSVS</string>
+    <string name="discount">Discount (%)</string>
+    <string name="HintDiscount">Enter amount for discount</string>
+    <string name="roadioCash">Cash</string>
+    <string name="radioPaynow">PayNow</string>
+    <string name="splitButton">Split</string>
+    <string name="resetButton">Reset</string>
+    <string name="total_bill_textview">Total Bill:</string>
+    <string name="each_pays_textview">Each pays:</string>
+</resources>
